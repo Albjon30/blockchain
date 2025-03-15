@@ -1,3 +1,3 @@
 # blockchain
 
-simple blockachian with go
+simple blockchain with go
